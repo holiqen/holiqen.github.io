@@ -2,7 +2,6 @@ body, html {
   margin: 0;
   overflow: hidden;
   -webkit-transition: opacity 400ms;
-  -moz-transition: opacity 400ms;
   transition: opacity 400ms;
 }
 
@@ -79,7 +78,6 @@ body, .onepage-wrapper, html {
 }
 .disabled-onepage-scroll .onepage-wrapper {
   -webkit-transform: none !important;
-  -moz-transform: none !important;
   transform: none !important;
   -ms-transform: none !important;
   min-height: 100%;
