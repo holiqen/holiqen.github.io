@@ -1,0 +1,76 @@
+/* -------------------------------------------------------- */
+/* BIG TABLET TO 1200PX (WIDTHS SMALLER THAT THE 1140PX ROW */
+/* -------------------------------------------------------- */
+
+@media only screen and (max-width: 1200px) {
+    .head_text {
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row { padding: 0 2%; }
+    
+    .menu { padding: 0 2%; }
+    
+    .menu__content { margin-left: 1%; }
+    
+    .head__foto { margin-left: 150px; }
+}
+
+/* ------------------------------------------------ */
+/* SMALL TABLET TO BIG TABLET: FROM 768PX TO 1023PX */
+/* ------------------------------------------------ */
+
+@media only screen and (max-width: 1023px) {
+    body { font-size: 80%; }
+    .menu { padding: 2% 2%; }
+    .head__foto { margin-left: 12%; }
+    .menu__content h1 {margin-top: 15%; }
+    .menu__content { margin-left: 0.5%; }
+}
+
+/* --------------------------------------------------- */
+/* SMALL PHONES AND SMALL TABLETS: FROM 481PX TO 767PX */
+/* --------------------------------------------------- */
+
+@media only screen and (max-width: 767px) {
+    body { font-size: 60%; }
+    .row { padding: 0 4%; }
+    .head__foto { display: none; }
+    .head {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    
+    hr {
+        margin: 2%;
+    }
+    
+    .boxs__container--item {
+        height: auto;
+    }
+    
+    .head_text {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        margin-top: 1%;
+    }
+    .main-nav {
+        margin-top: 2%;
+    }
+    .menu__content { margin-left: 1%; }
+    .menu__content h1 {margin-top: 20%; }
+    .main-nav .btn-ghost-nav { display: none; }
+    
+}
+
+/* ----------------------------- */
+/* SMALL PHONES: FROM 0 TO 480PX */
+/* ----------------------------- */
+
+@media only screen and (max-width: 480px) {
+    .main-nav .btn-ghost-nav { display: none; }
+    .menu__content { margin-left: 2%; }
+    .menu__content h1 {margin-top: 25%; }
+}
