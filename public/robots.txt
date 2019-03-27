@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://whale.digital/sitemap.xml
+Host: https://whale.digital

@@ -1,0 +1,148 @@
+## Created with gatsby-plugin-netlify
+
+/sw.js
+  Cache-Control: no-cache
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/application-development
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/it-consulting
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/digital-marketing
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/devops
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/big-data-analysis
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/iot-solutions
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/application-development
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/it-consulting
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/digital-marketing
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/devops
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/big-data-analysis
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/iot-solutions
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/bonusway
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/great-photos
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/hotel-space
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/healthcare
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/bonusway
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/great-photos
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/hotel-space
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/healthcare
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/careers/middle-front-end-developer
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/careers/middle-front-end-developer
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-fd5550fa04a28745847d.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-fd5550fa04a28745847d.js>; rel=preload; as=script
+/ru/404/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/about/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/careers/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/careers/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/case-studies/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/case-studies/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/contacts/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/contacts/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/partnership/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/partnership/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/terms-of-use/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/terms-of-use/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/thank-you-cv/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/thank-you-cv/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/thank-you/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/thank-you/
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/ru/404.html
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-9cc16f9b027fe12f3576.js>; rel=preload; as=script
+  Link: </0-9486c8ceb96546c1d51e.js>; rel=preload; as=script
